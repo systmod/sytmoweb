@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Common.Data\Common.Data.csproj" />
+    <ProjectReference Include="..\..\Common\Common.Operations\Common.Operations.csproj" />
+    <ProjectReference Include="..\..\Common\Common\Common.csproj" />
+  </ItemGroup>
+
+</Project>

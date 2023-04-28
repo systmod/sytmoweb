@@ -1,0 +1,12 @@
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Common\Common.Reporting\bin\Release\net7.0\Common.Reporting.deps.json
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Common\Common.Reporting\bin\Release\net7.0\Common.Reporting.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Common\Common.Reporting\bin\Release\net7.0\Common.Reporting.pdb
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Common\Common.Reporting\obj\Release\net7.0\Common.Reporting.csproj.AssemblyReference.cache
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Common\Common.Reporting\obj\Release\net7.0\Common.Reporting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Common\Common.Reporting\obj\Release\net7.0\Common.Reporting.AssemblyInfoInputs.cache
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Common\Common.Reporting\obj\Release\net7.0\Common.Reporting.AssemblyInfo.cs
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Common\Common.Reporting\obj\Release\net7.0\Common.Reporting.csproj.CoreCompileInputs.cache
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Common\Common.Reporting\obj\Release\net7.0\Common.Reporting.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Common\Common.Reporting\obj\Release\net7.0\refint\Common.Reporting.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Common\Common.Reporting\obj\Release\net7.0\Common.Reporting.pdb
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Common\Common.Reporting\obj\Release\net7.0\ref\Common.Reporting.dll

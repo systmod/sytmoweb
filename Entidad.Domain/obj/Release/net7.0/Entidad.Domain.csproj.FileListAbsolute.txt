@@ -1,0 +1,17 @@
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\bin\Release\net7.0\Entidad.Domain.deps.json
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\bin\Release\net7.0\Entidad.Domain.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\bin\Release\net7.0\Entidad.Domain.pdb
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\bin\Release\net7.0\Common.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\bin\Release\net7.0\Common.Reporting.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\bin\Release\net7.0\Common.pdb
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\bin\Release\net7.0\Common.Reporting.pdb
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\obj\Release\net7.0\Entidad.Domain.csproj.AssemblyReference.cache
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\obj\Release\net7.0\Entidad.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\obj\Release\net7.0\Entidad.Domain.AssemblyInfoInputs.cache
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\obj\Release\net7.0\Entidad.Domain.AssemblyInfo.cs
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\obj\Release\net7.0\Entidad.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\obj\Release\net7.0\Entidad.Domain.csproj.CopyComplete
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\obj\Release\net7.0\Entidad.Domain.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\obj\Release\net7.0\refint\Entidad.Domain.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\obj\Release\net7.0\Entidad.Domain.pdb
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.Domain\obj\Release\net7.0\ref\Entidad.Domain.dll

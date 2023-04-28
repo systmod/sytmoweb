@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\luisp\Desktop\Accesos\Systmo\API\Entidad.API\bin\Release\net7.0\publish\sytmo\entidad</_PublishTargetUrl>
+    <History>True|2023-04-24T19:55:52.7942927Z;True|2023-04-21T16:02:31.8618060-05:00;True|2023-04-20T17:55:10.4262569-05:00;True|2023-04-20T16:54:09.9939687-05:00;True|2023-04-19T17:21:30.7621352-05:00;True|2023-04-19T17:16:22.5111127-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

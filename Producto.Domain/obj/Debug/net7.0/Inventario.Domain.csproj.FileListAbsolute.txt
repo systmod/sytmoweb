@@ -1,0 +1,17 @@
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\bin\Debug\net7.0\Inventario.Domain.deps.json
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\bin\Debug\net7.0\Inventario.Domain.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\bin\Debug\net7.0\Inventario.Domain.pdb
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\bin\Debug\net7.0\Common.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\bin\Debug\net7.0\Common.Reporting.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\bin\Debug\net7.0\Common.pdb
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\bin\Debug\net7.0\Common.Reporting.pdb
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\obj\Debug\net7.0\Inventario.Domain.csproj.AssemblyReference.cache
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\obj\Debug\net7.0\Inventario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\obj\Debug\net7.0\Inventario.Domain.AssemblyInfoInputs.cache
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\obj\Debug\net7.0\Inventario.Domain.AssemblyInfo.cs
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\obj\Debug\net7.0\Inventario.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\obj\Debug\net7.0\Inventario.Domain.csproj.CopyComplete
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\obj\Debug\net7.0\Inventario.Domain.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\obj\Debug\net7.0\refint\Inventario.Domain.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\obj\Debug\net7.0\Inventario.Domain.pdb
+C:\Users\luisp\Desktop\Accesos\Systmo\API\Producto.Domain\obj\Debug\net7.0\ref\Inventario.Domain.dll
