@@ -1,0 +1,180 @@
+<div class="page-header">
+	<div class="page-title">
+		<h4>Crear Producto</h4>
+		<h6>Crear nuevo Producto</h6>
+	</div>
+</div>
+<!-- /add -->
+<form [formGroup]="formularioProducto">
+	<div class="card">
+		<div class="card-body">
+			<div class="row">
+				<!--  -->
+				<div class="col-lg-4 col-sm-6 col-12">
+					<div class="form-group">
+						<label>Codigo</label>
+						<input type="text" maxlength="15" formControlName="codigo">
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 col-12">
+					<div class="form-group">
+						<label>Codigo Interno</label>
+						<input type="text" maxlength="15" formControlName="codigoInterno">
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 col-12">
+					<div class="form-group">
+						<label>Codigo Barra</label>
+						<input type="text" maxlength="15" formControlName="codigoBarra">
+					</div>
+				</div>
+				<!--  -->
+				<div class="col-lg-3 col-sm-6 col-12">
+					<div class="form-group">
+						<label>Nombre del Producto</label>
+						<input type="text" formControlName="nombre">
+					</div>
+				</div>
+				<div class="col-lg-3 col-sm-6 col-12">
+					<div class="form-group">
+						<label>Tipo</label>
+						<select class="form-select" formControlName="tipo">
+							<option>Choose Category</option>
+							<option>Computers</option>
+						</select>
+					</div>
+				</div>
+				<div class="col-lg-3 col-sm-6 col-12">
+					<div class="form-group">
+						<label>Modelo</label>
+						<select class="form-select" formControlName="modelo">
+							<option>Choose Category</option>
+							<option>Computers</option>
+						</select>
+					</div>
+				</div>
+				<div class="col-lg-3 col-sm-6 col-12">
+					<div class="form-group">
+						<label>Marca</label>
+						<select class="form-select" formControlName="marca">
+							<option>Choose Sub Category</option>
+							<option>Fruits</option>
+						</select>
+					</div>
+				</div>
+				<!--  -->
+				<div class="col-lg-4 col-sm-6 col-12">
+					<div class="form-group">
+						<label>Unidad</label>
+						<select class="form-select" formControlName="unidad">
+							<option>Choose Brand</option>
+							<option>Brand</option>
+						</select>
+					</div>
+				</div>
+				<!--  -->
+				<div class="col-lg-4 col-sm-6 col-12">
+					<div class="form-group">
+						<label>validaStock</label>
+						<select class="form-select" formControlName="validaStock">
+							<option>Si</option>
+							<option>No</option>
+						</select>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 col-12">
+					<div class="form-group">
+						<label>Descuento</label>
+						<input type="text" formControlName="porcentajeDescuento">
+					</div>
+				</div>
+				<div class="col-lg-2 col-sm-6 col-12">
+					<div class="form-group">
+						<label>pvpA</label>
+						<input type="text" formControlName="pvpA">
+					</div>
+				</div>
+				<div class="col-lg-2 col-sm-6 col-12">
+					<div class="form-group">
+						<label>pvpB</label>
+						<input type="text" formControlName="pvpB">
+					</div>
+				</div>
+				<div class="col-lg-2 col-sm-6 col-12">
+					<div class="form-group">
+						<label>pvpC</label>
+						<input type="text" formControlName="pvpC">
+					</div>
+				</div>
+				<div class="col-lg-2 col-sm-6 col-12">
+					<div class="form-group">
+						<label>pvpD</label>
+						<input type="text" formControlName="pvpD">
+					</div>
+				</div>
+				<div class="col-lg-2 col-sm-6 col-12">
+					<div class="form-group">
+						<label>pvpE</label>
+						<input type="text" formControlName="pvpE">
+					</div>
+				</div>
+				<div class="col-lg-2 col-sm-6 col-12">
+					<div class="form-group">
+						<label>Iva</label>
+						<select class="form-select" formControlName="ivaSn">
+							<option>Si</option>
+							<option>No</option>
+						</select>
+					</div>
+				</div>
+				<!--  -->
+				<div class="col-lg-12">
+					<div class="form-group">
+						<label>Descripcion</label>
+						<textarea class="form-control" formControlName="comentario"></textarea>
+					</div>
+				</div>
+				<div class="col-lg-12 zoom-container" *ngIf="formularioProducto.controls.imagen.value">
+					<label style="margin-bottom: 10px;"> Imagen del Producto</label>
+					<img [src]="formularioProducto.controls.imagen.value" alt="Selected Image" width="300px"
+						(click)="ZoomImagen()">
+				</div>
+				<div class="modal" [class.show]="isModalOpen" tabindex="1">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h4 class="modal-title">Visualizar Imagen</h4>
+								<button type="button" class="close" aria-label="Close" (click)="closeModal()">
+									<span aria-hidden="true">&times;</span>
+								</button>
+							</div>
+							<div class="modal-body">
+								<img [src]="formularioProducto.controls.imagen.value" alt="Selected Image"
+									class="zoomed-image">
+							</div>
+						</div>
+					</div>
+					<div class="modal-backdrop" *ngIf="isModalOpen"></div>
+				</div>
+
+				<div class="col-lg-12" *ngIf="!formularioProducto.controls.imagen.value">
+					<div class="form-group">
+						<label> Imagen del Producto</label>
+						<div class="image-upload">
+							<input type="file" (change)="onFileSelected($event)" accept="image/*">
+							<div class="image-uploads">
+								<img src="assets/img/icons/upload.svg" alt="img">
+								<h4>Arrastra y suelta la imagen para cargarla </h4>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<a class="btn btn-submit me-2" style="color: white;" (click)="crearProducto()">{{boton}}</a>
+					<a class="btn btn-cancel" (click)="salir()" style="color: white;">Cancelar</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</form>
+<!-- /add -->

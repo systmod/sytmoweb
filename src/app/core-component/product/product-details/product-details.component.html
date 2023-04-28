@@ -1,0 +1,89 @@
+<div class="page-header">
+  <div class="page-title">
+    <h4>Detalles del Producto</h4>
+    <h6>Detalle del Product</h6>
+  </div>
+</div>
+<!-- /add -->
+<div class="row">
+  <div class="col-lg-8 col-sm-12">
+    <div class="card">
+      <div class="card-body">
+        <!-- <div class="bar-code-view">
+          <img src="assets/img/barcode1.png" alt="barcode" />
+          <a class="printimg">
+            <img src="assets/img/icons/printer.svg" alt="print" />
+          </a>
+        </div> -->
+        <div class="productdetails">
+          <ul class="product-bar">
+            <li>
+              <h4>Codigo</h4>
+              <h6>{{producto?.codigo}}</h6>
+            </li>
+            <li>
+              <h4>Nombre</h4>
+              <h6>{{producto?.nombre}}</h6>
+            </li>
+            <li>
+              <h4>Marca</h4>
+              <h6>{{producto?.marca}}</h6>
+            </li>
+            <li>
+              <h4>Unidad</h4>
+              <h6>{{producto?.unidad}}</h6>
+            </li>
+            <li>
+              <h4>Valor Ultima Compra</h4>
+              <h6>{{producto?.valorUltimaCompra}}</h6>
+            </li>
+            <li>
+              <h4>Fecha Ultima Compra</h4>
+              <h6>{{producto?.fechaUltimaCompra |date}}</h6>
+            </li>
+            <li>
+              <h4>pvpA</h4>
+              <h6>{{producto?.pvpA}}</h6>
+            </li>
+            <li>
+              <h4>Descripcion</h4>
+              <h6>
+                {{producto?.comentario}}
+              </h6>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-4 col-sm-12">
+    <div class="card">
+      <div class="card-body">
+        <div class="slider-product-details">
+          <!-- <div class="owl-carousel owl-theme product-slide">
+             -->
+          <owl-carousel-o class="owl-theme product-slide" [options]="customOptions">
+            <ng-template carouselSlide>
+              <div class="slider-product">
+                <img src="assets/img/product/product69.jpg" alt="img" />
+                <h4>macbookpro.jpg</h4>
+                <h6>581kb</h6>
+              </div>
+            </ng-template>
+            <ng-template carouselSlide>
+              <div carouselSlide class="slider-product">
+                <img src="assets/img/product/product69.jpg" alt="img" />
+                <h4>macbookpro.jpg</h4>
+                <h6>581kb</h6>
+              </div>
+            </ng-template>
+          </owl-carousel-o>
+
+          <!-- </div> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- /add -->
