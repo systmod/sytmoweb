@@ -1,0 +1,40 @@
+.zoom-container {
+  position: relative;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.zoom-container img {
+  transition: transform s ease;
+}
+
+.zoom-container img.zoomed {
+  transform: scale(1.5);
+  z-index: 9999;
+  cursor: zoom-out;
+}
+.modal-dialog {
+  max-width: 90%;
+  width: auto;
+}
+
+.zoomed-image {
+  width: 100%;
+  height: auto;
+  max-height: calc(100vh - 200px); /* Ajusta este valor según tus necesidades */
+  object-fit: contain;
+  cursor: zoom-out;
+}
+
+.modal-backdrop {
+  z-index: -1;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #000;
+  opacity: 0.5;
+}
