@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common.Data\\Common.Data.csproj": {}
+    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common.Data\\Common.Data.csproj": {
+    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common.Data\\Common.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj",
         "projectName": "Common.Data",
-        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common.Data\\Common.Data.csproj",
-        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common.Data\\obj\\",
+        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj",
+        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common\\Common.csproj"
+              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj"
               }
             }
           }
@@ -81,21 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common.Reporting\\Common.Reporting.csproj": {
+    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common.Reporting\\Common.Reporting.csproj",
+        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj",
         "projectName": "Common.Reporting",
-        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common.Reporting\\Common.Reporting.csproj",
-        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common.Reporting\\obj\\",
+        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj",
+        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,21 +158,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common\\Common.csproj": {
+    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common\\obj\\",
+        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -186,8 +186,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common.Reporting\\Common.Reporting.csproj": {
-                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\API\\Common\\Common.Reporting\\Common.Reporting.csproj"
+              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj": {
+                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj"
               }
             }
           }
@@ -255,7 +255,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
