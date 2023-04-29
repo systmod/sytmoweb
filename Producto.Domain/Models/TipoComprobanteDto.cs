@@ -32,4 +32,11 @@ namespace Inventario.Domain.Models
         public string TipoRetencion { get; set; }
         public string Serie { get; set; }
     }
+
+    public static class GrupoComprobante
+    {
+        public const string
+            Compra = "C",
+            Venta = "V";
+    }
 }

@@ -80,7 +80,7 @@ namespace Inventario.API.Controllers
         {
             try
             {
-                var result = await _tipo.ConsultarTiposByGrupo(this, "V", page, pageSize);
+                var result = await _tipo.ConsultarTiposByGrupo(this, GrupoComprobante.Venta, page, pageSize);
 
                 if (result.Success)
                 {
@@ -105,7 +105,7 @@ namespace Inventario.API.Controllers
         {
             try
             {
-                var result = await _tipo.ConsultarTiposByGrupo(this, "C", page, pageSize);
+                var result = await _tipo.ConsultarTiposByGrupo(this, GrupoComprobante.Compra , page, pageSize);
 
                 if (result.Success)
                 {
