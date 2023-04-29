@@ -11,6 +11,7 @@ namespace DataAccess.Models
         {
             Dp03amov = new HashSet<Dp03amov>();
             Dp05acab = new HashSet<Dp05acab>();
+            Dp06acab = new HashSet<Dp06acab>();
         }
 
         public long Id { get; set; }
@@ -55,5 +56,6 @@ namespace DataAccess.Models
         public virtual Dp03acom TipoNavigation { get; set; }
         public virtual ICollection<Dp03amov> Dp03amov { get; set; }
         public virtual ICollection<Dp05acab> Dp05acab { get; set; }
+        public virtual ICollection<Dp06acab> Dp06acab { get; set; }
     }
 }

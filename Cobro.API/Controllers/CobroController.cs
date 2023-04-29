@@ -1,10 +1,12 @@
 ﻿using AutoMapper;
 using Cobro.Domain.Models;
+using Cobro.Domain.Request;
 using Cobro.Domain.Services;
 using Common;
 using Common.Http;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using NPOI.SS.Formula.Functions;
 
 namespace Cobro.API.Controllers
 {
@@ -53,6 +55,30 @@ namespace Cobro.API.Controllers
             try
             {
                 var result = await _cobro.Consultartipos(this, page, pageSize);
+
+                if (result.Success)
+                {
+                    return Ok(result);
+                }
+                else
+                {
+                    return result.ToObjectResult();
+                }
+            }
+            catch (Exception ex)
+            {
+                return ex.ToObjectResult();
+            }
+        }
+        
+        [HttpPost, Route("crear")]
+        [ProducesResponseType(typeof(IOperationResult<CobroDto>), 201)]
+        [ProducesResponseType(typeof(IOperationResult), 500)]
+        public async Task<IActionResult> GuardarProducto([FromBody] CobroRequest request)
+        {
+            try
+            {
+                var result = await _cobro.GuardarCobro(request.ToRequest(this));
 
                 if (result.Success)
                 {

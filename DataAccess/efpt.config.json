@@ -51,6 +51,18 @@
          "ObjectType": 0
       },
       {
+         "Name": "[dbo].[Dp06a140]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Dp06a150]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Dp06acab]",
+         "ObjectType": 0
+      },
+      {
          "Name": "[dbo].[Dpinvcab]",
          "ObjectType": 0
       },
@@ -75,10 +87,11 @@
          "ObjectType": 1
       }
    ],
-   "UiHint": "PRECIADO-SERVER\\SQLEXPRESS.benderbrau",
+   "UiHint": "preciado-server\\sqlexpress.benderbrau.dbo",
    "UncountableWords": null,
    "UseBoolPropertiesWithoutDefaultSql": true,
    "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
    "UseDbContextSplitting": true,
    "UseFluentApiOnly": true,
    "UseHandleBars": false,

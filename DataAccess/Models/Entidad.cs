@@ -10,6 +10,7 @@ namespace DataAccess.Models
         public Entidad()
         {
             Dp05acab = new HashSet<Dp05acab>();
+            Dp06acab = new HashSet<Dp06acab>();
             Dpinvcab = new HashSet<Dpinvcab>();
         }
 
@@ -62,6 +63,7 @@ namespace DataAccess.Models
         public virtual Parroquia IdParroquiaNavigation { get; set; }
         public virtual Provincia IdProvinciaNavigation { get; set; }
         public virtual ICollection<Dp05acab> Dp05acab { get; set; }
+        public virtual ICollection<Dp06acab> Dp06acab { get; set; }
         public virtual ICollection<Dpinvcab> Dpinvcab { get; set; }
     }
 }

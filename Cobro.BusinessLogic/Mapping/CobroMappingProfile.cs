@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Cobro.Domain.Models;
+using Cobro.Domain.Request;
 using DataAccess.Models;
 
 namespace Producto.BusinessLogic.Mapping
@@ -8,10 +9,10 @@ namespace Producto.BusinessLogic.Mapping
     {
         public CobroMappingProfile()
         {
-            MapProductos();
+            MapCobros();
         }
 
-        private void MapProductos()
+        private void MapCobros()
         {
             #region DTO to Entity
             CreateMap<Dp05a120, MetodoCobroDto>()
@@ -21,8 +22,8 @@ namespace Producto.BusinessLogic.Mapping
             #endregion
 
             #region Request To Entity
-            //CreateMap<Dp03a110, ProductoRequest>()
-            //    .ReverseMap();
+            CreateMap<Dp05acab, CobroRequest>()
+                .ReverseMap();
             #endregion
         }
     }

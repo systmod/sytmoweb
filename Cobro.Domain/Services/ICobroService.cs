@@ -1,4 +1,5 @@
 ﻿using Cobro.Domain.Models;
+using Cobro.Domain.Request;
 using Common;
 using System;
 using System.Collections.Generic;
@@ -12,5 +13,6 @@ namespace Cobro.Domain.Services
     {
         Task<IOperationResultList<MetodoCobroDto>> ConsultarMetodos(IOperationRequest request, int page = 1, int? pageSize = default);
         Task<IOperationResultList<TipoCobroDto>> Consultartipos(IOperationRequest request, int page = 1, int? pageSize = default);
+        Task<IOperationResult<CobroDto>> GuardarCobro(IOperationRequest<CobroRequest> request);
     }
 }

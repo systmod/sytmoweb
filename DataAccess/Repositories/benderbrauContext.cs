@@ -29,6 +29,9 @@ namespace DataAccess.Repositories
         public virtual DbSet<Dp05a120> Dp05a120 { get; set; }
         public virtual DbSet<Dp05a130> Dp05a130 { get; set; }
         public virtual DbSet<Dp05acab> Dp05acab { get; set; }
+        public virtual DbSet<Dp06a140> Dp06a140 { get; set; }
+        public virtual DbSet<Dp06a150> Dp06a150 { get; set; }
+        public virtual DbSet<Dp06acab> Dp06acab { get; set; }
         public virtual DbSet<Dpinvcab> Dpinvcab { get; set; }
         public virtual DbSet<Entidad> Entidad { get; set; }
         public virtual DbSet<Pais> Pais { get; set; }
@@ -48,6 +51,9 @@ namespace DataAccess.Repositories
             modelBuilder.ApplyConfiguration(new Configurations.Dp05a120Configuration());
             modelBuilder.ApplyConfiguration(new Configurations.Dp05a130Configuration());
             modelBuilder.ApplyConfiguration(new Configurations.Dp05acabConfiguration());
+            modelBuilder.ApplyConfiguration(new Configurations.Dp06a140Configuration());
+            modelBuilder.ApplyConfiguration(new Configurations.Dp06a150Configuration());
+            modelBuilder.ApplyConfiguration(new Configurations.Dp06acabConfiguration());
             modelBuilder.ApplyConfiguration(new Configurations.DpinvcabConfiguration());
             modelBuilder.ApplyConfiguration(new Configurations.EntidadConfiguration());
             modelBuilder.ApplyConfiguration(new Configurations.PaisConfiguration());

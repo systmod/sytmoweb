@@ -1,0 +1,17 @@
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\bin\Debug\net7.0\Pago.Domain.deps.json
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\bin\Debug\net7.0\Pago.Domain.dll
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\bin\Debug\net7.0\Pago.Domain.pdb
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\bin\Debug\net7.0\Common.dll
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\bin\Debug\net7.0\Common.Reporting.dll
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\bin\Debug\net7.0\Common.pdb
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\bin\Debug\net7.0\Common.Reporting.pdb
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\obj\Debug\net7.0\Pago.Domain.csproj.AssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\obj\Debug\net7.0\Pago.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\obj\Debug\net7.0\Pago.Domain.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\obj\Debug\net7.0\Pago.Domain.AssemblyInfo.cs
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\obj\Debug\net7.0\Pago.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\obj\Debug\net7.0\Pago.Domain.csproj.CopyComplete
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\obj\Debug\net7.0\Pago.Domain.dll
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\obj\Debug\net7.0\refint\Pago.Domain.dll
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\obj\Debug\net7.0\Pago.Domain.pdb
+C:\Users\Luis\Documents\GitHub\sytmoweb\Pago.Domain\obj\Debug\net7.0\ref\Pago.Domain.dll
