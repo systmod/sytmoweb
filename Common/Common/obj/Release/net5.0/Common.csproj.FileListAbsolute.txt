@@ -1,0 +1,15 @@
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\bin\Release\net5.0\Common.deps.json
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\bin\Release\net5.0\Common.dll
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\bin\Release\net5.0\Common.pdb
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\bin\Release\net5.0\Common.Reporting.dll
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\bin\Release\net5.0\Common.Reporting.pdb
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\obj\Release\net5.0\Common.csproj.AssemblyReference.cache
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\obj\Release\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\obj\Release\net5.0\Common.AssemblyInfoInputs.cache
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\obj\Release\net5.0\Common.AssemblyInfo.cs
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\obj\Release\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\obj\Release\net5.0\Common.csproj.CopyComplete
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\obj\Release\net5.0\Common.dll
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\obj\Release\net5.0\refint\Common.dll
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\obj\Release\net5.0\Common.pdb
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common\obj\Release\net5.0\ref\Common.dll

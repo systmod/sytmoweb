@@ -1,0 +1,17 @@
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\bin\Debug\net7.0\Cobro.Domain.deps.json
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\bin\Debug\net7.0\Cobro.Domain.dll
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\bin\Debug\net7.0\Cobro.Domain.pdb
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\obj\Debug\net7.0\Cobro.Domain.csproj.AssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\obj\Debug\net7.0\Cobro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\obj\Debug\net7.0\Cobro.Domain.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\obj\Debug\net7.0\Cobro.Domain.AssemblyInfo.cs
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\obj\Debug\net7.0\Cobro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\obj\Debug\net7.0\Cobro.Domain.dll
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\obj\Debug\net7.0\refint\Cobro.Domain.dll
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\obj\Debug\net7.0\Cobro.Domain.pdb
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\obj\Debug\net7.0\ref\Cobro.Domain.dll
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\bin\Debug\net7.0\Common.dll
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\bin\Debug\net7.0\Common.Reporting.dll
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\bin\Debug\net7.0\Common.pdb
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\bin\Debug\net7.0\Common.Reporting.pdb
+C:\Users\Luis\Documents\GitHub\sytmoweb\Cobro.Domain\obj\Debug\net7.0\Cobro.Domain.csproj.CopyComplete

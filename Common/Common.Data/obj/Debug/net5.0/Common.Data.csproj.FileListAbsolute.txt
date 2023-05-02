@@ -1,0 +1,17 @@
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\bin\Debug\net5.0\Common.Data.deps.json
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\bin\Debug\net5.0\Common.Data.dll
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\bin\Debug\net5.0\Common.Data.pdb
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\bin\Debug\net5.0\Common.dll
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\bin\Debug\net5.0\Common.Reporting.dll
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\bin\Debug\net5.0\Common.pdb
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\bin\Debug\net5.0\Common.Reporting.pdb
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\obj\Debug\net5.0\Common.Data.csproj.AssemblyReference.cache
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\obj\Debug\net5.0\Common.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\obj\Debug\net5.0\Common.Data.AssemblyInfoInputs.cache
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\obj\Debug\net5.0\Common.Data.AssemblyInfo.cs
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\obj\Debug\net5.0\Common.Data.csproj.CoreCompileInputs.cache
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\obj\Debug\net5.0\Common.Data.csproj.CopyComplete
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\obj\Debug\net5.0\Common.Data.dll
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\obj\Debug\net5.0\refint\Common.Data.dll
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\obj\Debug\net5.0\Common.Data.pdb
+C:\Proyectos Binasystem\ServiceBroker\API\Common\Common.Data\obj\Debug\net5.0\ref\Common.Data.dll
