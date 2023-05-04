@@ -97,12 +97,12 @@ export class SidebarService {
       ]
     },
     {
-      tittle: 'Productos',
+      tittle: 'Inventario',
       showAsTab: true,
       separateRoute: false,
       menu: [
         {
-          menuValue: 'lista de Productos',
+          menuValue: 'Productos',
           route: routes.listaProducto,
           hasSubRoute: false,
           showSubRoute: false,

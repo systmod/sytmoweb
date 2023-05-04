@@ -40,6 +40,8 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+.angular/
+.angular/cache/15.0.5
 
 # TypeScript v1 declaration files
 typings/
