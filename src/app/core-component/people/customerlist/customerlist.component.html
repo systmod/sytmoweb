@@ -91,12 +91,12 @@
         class="table datanew">
         <thead>
           <tr>
-            <th>
+            <!-- <th>
               <label class="checkboxs" (click)="selectAll(initChecked)">
                 <input type="checkbox" [(ngModel)]="initChecked" />
                 <span class="checkmarks"></span>
               </label>
-            </th>
+            </th> -->
             <th mat-sort-header="CustomerName">Cliente</th>
             <th mat-sort-header="code">Identificacion</th>
             <th mat-sort-header="Customer">Descripcion</th>
@@ -107,12 +107,12 @@
         </thead>
         <tbody>
           <tr *ngFor="let cliente of tableData; let i = index">
-            <td>
+            <!-- <td>
               <label class="checkboxs">
                 <input type="checkbox" [(ngModel)]="cliente.isSelected" />
                 <span class="checkmarks"></span>
               </label>
-            </td>
+            </td> -->
             <td class="productimgname">
               <a href="javascript:void(0);" class="product-img">
                 <img src="assets/img/customer/no-imagecustomer.png" alt="product" />

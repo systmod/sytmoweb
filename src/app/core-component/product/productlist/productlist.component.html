@@ -116,12 +116,12 @@
         class="table" id="printTable">
         <thead>
           <tr>
-            <th>
+            <!-- <th>
               <label class="checkboxs" (click)="selectAll(initChecked)">
                 <input type="checkbox" [(ngModel)]="initChecked" />
                 <span class="checkmarks"></span>
               </label>
-            </th>
+            </th> -->
             <th mat-sort-header="Codigo">Codigo</th>
             <th mat-sort-header="ProductName">Producto</th>
             <!-- <th mat-sort-header="Category">Category</th>
@@ -135,12 +135,12 @@
         </thead>
         <tbody>
           <tr *ngFor="let products of tableData; let i = index">
-            <td>
+            <!-- <td>
               <label class="checkboxs">
                 <input type="checkbox" [(ngModel)]="products.isSelected" />
                 <span class="checkmarks"></span>
               </label>
-            </td>
+            </td> -->
             <td>{{ products.codigo }}</td>
             <td class="productimgname">
               <!-- <a href="javascript:void(0);" class="product-img">
