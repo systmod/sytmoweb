@@ -13,5 +13,6 @@ namespace DataAccess.Repositories
     public partial interface IbenderbrauContextProcedures
     {
         Task<List<CarritoToProforResult>> CarritoToProforAsync(int? IdUsuario, string Bodega, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);
+        Task<List<Custom_SecuencialResult>> Custom_SecuencialAsync(int? IdEmpresa, string xTipo, string xModulo, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);
     }
 }

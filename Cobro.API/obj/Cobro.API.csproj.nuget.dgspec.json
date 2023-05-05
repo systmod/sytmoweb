@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.API\\Cobro.API.csproj": {}
+    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.API\\Cobro.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj": {
+    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj",
         "projectName": "Catalogos.Domain",
-        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Catalogo\\Catalogo.Domain\\obj\\",
+        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj",
+        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Catalogo\\Catalogo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,14 +28,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj"
               },
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj"
               },
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj"
               }
             }
           }
@@ -71,21 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.API\\Cobro.API.csproj": {
+    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.API\\Cobro.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.API\\Cobro.API.csproj",
+        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.API\\Cobro.API.csproj",
         "projectName": "Cobro.API",
-        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.API\\Cobro.API.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.API\\obj\\",
+        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.API\\Cobro.API.csproj",
+        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,14 +99,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.BusinessLogic\\Cobro.BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.BusinessLogic\\Cobro.BusinessLogic.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.BusinessLogic\\Cobro.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.BusinessLogic\\Cobro.BusinessLogic.csproj"
               },
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj"
               },
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -149,21 +149,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.BusinessLogic\\Cobro.BusinessLogic.csproj": {
+    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.BusinessLogic\\Cobro.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.BusinessLogic\\Cobro.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.BusinessLogic\\Cobro.BusinessLogic.csproj",
         "projectName": "Cobro.BusinessLogic",
-        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.BusinessLogic\\Cobro.BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.BusinessLogic\\obj\\",
+        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.BusinessLogic\\Cobro.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -177,17 +177,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.Domain\\Cobro.Domain.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.Domain\\Cobro.Domain.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.Domain\\Cobro.Domain.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.Domain\\Cobro.Domain.csproj"
               },
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj"
               },
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj"
               },
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -217,21 +217,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.Domain\\Cobro.Domain.csproj": {
+    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.Domain\\Cobro.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.Domain\\Cobro.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.Domain\\Cobro.Domain.csproj",
         "projectName": "Cobro.Domain",
-        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.Domain\\Cobro.Domain.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Cobro.Domain\\obj\\",
+        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.Domain\\Cobro.Domain.csproj",
+        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Cobro.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -245,8 +245,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj"
               }
             }
           }
@@ -276,21 +276,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj": {
+    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj",
+        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj",
         "projectName": "Common.Data",
-        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Data\\obj\\",
+        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Data\\Common.Data.csproj",
+        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -304,8 +304,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj"
               }
             }
           }
@@ -357,21 +357,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj": {
+    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj",
         "projectName": "Common.Domain",
-        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Domain\\obj\\",
+        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj",
+        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -385,8 +385,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj"
               }
             }
           }
@@ -422,21 +422,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj": {
+    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj",
+        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj",
         "projectName": "Common.Http",
-        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Http\\obj\\",
+        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj",
+        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Http\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -450,17 +450,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj"
               },
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj"
               },
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj"
               },
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj"
               }
             }
           }
@@ -555,21 +555,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj": {
+    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj",
+        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj",
         "projectName": "Common.Operations",
-        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\obj\\",
+        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj",
+        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -583,11 +583,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj"
               },
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj"
               }
             }
           }
@@ -623,21 +623,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj": {
+    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj",
+        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj",
         "projectName": "Common.Reporting",
-        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\obj\\",
+        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj",
+        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Reporting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -700,21 +700,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj": {
+    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\obj\\",
+        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -728,8 +728,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj": {
-                "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj"
+              "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj": {
+                "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj"
               }
             }
           }
@@ -797,21 +797,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -862,7 +862,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

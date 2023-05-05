@@ -9919,19 +9919,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luis\\.nuget\\packages\\": {}
+    "C:\\Users\\luisp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj",
+      "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj",
       "projectName": "Common.Http",
-      "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj",
-      "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Http\\obj\\",
+      "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj",
+      "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Http\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9945,17 +9945,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj"
+            "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj": {
+              "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Catalogo\\Catalogo.Domain\\Catalogos.Domain.csproj"
             },
-            "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj"
+            "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj": {
+              "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Domain\\Common.Domain.csproj"
             },
-            "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj"
+            "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj": {
+              "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj"
             },
-            "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj"
+            "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj"
             }
           }
         }
@@ -10050,7 +10050,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -10059,7 +10059,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Common.Http depende de Microsoft.Extensions.DependencyInjection (>= 8.0.0-preview.3.23174.2), pero no se encontró Microsoft.Extensions.DependencyInjection 8.0.0-preview.3.23174.2. Se resolvió una mejor coincidencia aproximada de Microsoft.Extensions.DependencyInjection 8.0.0-preview.3.23174.8.",
+      "message": "Common.Http depends on Microsoft.Extensions.DependencyInjection (>= 8.0.0-preview.3.23174.2) but Microsoft.Extensions.DependencyInjection 8.0.0-preview.3.23174.2 was not found. An approximate best match of Microsoft.Extensions.DependencyInjection 8.0.0-preview.3.23174.8 was resolved.",
       "libraryId": "Microsoft.Extensions.DependencyInjection",
       "targetGraphs": [
         "net7.0"

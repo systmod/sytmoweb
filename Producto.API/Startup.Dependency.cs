@@ -20,11 +20,11 @@ namespace Producto.API
             services.AddScoped<DbContext, benderbrauContext>();
             services.AddScoped<benderbrauContext>();
             services.AddScoped(typeof(IEntityRepository<>), typeof(EntityRepository<>));
-
+            services.AddScoped<IbenderbrauContextProcedures, benderbrauContextProcedures>();
 
             services.AddScoped<IProductoService, ProductoService>();
-            services.AddScoped<ITipoComprobanteService, TipoComprobanteService>(); 
-
+            services.AddScoped<ITipoComprobanteService, TipoComprobanteService>();
+            services.AddScoped<ITransaccionService, TransaccionService>();            
             // PDF Tools
             services.AddSingleton(typeof(DinkToPdf.Contracts.IConverter), new SynchronizedConverter(new PdfTools()));
 

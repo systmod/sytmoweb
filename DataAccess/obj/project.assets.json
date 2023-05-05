@@ -2669,19 +2669,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luis\\.nuget\\packages\\": {}
+    "C:\\Users\\luisp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2732,7 +2732,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10444,19 +10444,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luis\\.nuget\\packages\\": {}
+    "C:\\Users\\luisp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Pago.API\\Pago.API.csproj",
+      "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Pago.API\\Pago.API.csproj",
       "projectName": "Pago.API",
-      "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Pago.API\\Pago.API.csproj",
-      "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Pago.API\\obj\\",
+      "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Pago.API\\Pago.API.csproj",
+      "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Pago.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10470,17 +10470,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj"
+            "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj": {
+              "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Http\\Common.Http.csproj"
             },
-            "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj"
+            "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj": {
+              "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Reporting\\Common.Reporting.csproj"
             },
-            "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Pago.BusinessLogic\\Pago.BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Pago.BusinessLogic\\Pago.BusinessLogic.csproj"
+            "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Pago.BusinessLogic\\Pago.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Pago.BusinessLogic\\Pago.BusinessLogic.csproj"
             }
           }
         }
@@ -10523,7 +10523,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -10532,7 +10532,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Common.Http depende de Microsoft.Extensions.DependencyInjection (>= 8.0.0-preview.3.23174.2), pero no se encontró Microsoft.Extensions.DependencyInjection 8.0.0-preview.3.23174.2. Se resolvió una mejor coincidencia aproximada de Microsoft.Extensions.DependencyInjection 8.0.0-preview.3.23174.8.",
+      "message": "Common.Http depends on Microsoft.Extensions.DependencyInjection (>= 8.0.0-preview.3.23174.2) but Microsoft.Extensions.DependencyInjection 8.0.0-preview.3.23174.2 was not found. An approximate best match of Microsoft.Extensions.DependencyInjection 8.0.0-preview.3.23174.8 was resolved.",
       "libraryId": "Microsoft.Extensions.DependencyInjection",
       "targetGraphs": [
         "net7.0"

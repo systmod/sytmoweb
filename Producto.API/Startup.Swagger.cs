@@ -16,7 +16,7 @@ namespace Producto.API
             {                
                 swagger.SwaggerDoc("v1", new OpenApiInfo
                 {
-                    Title = "Producto API"
+                    Title = "Inventario API"
                 }); 
 
                 // To Enable authorization using Swagger (JWT)    

@@ -35,6 +35,7 @@ namespace DataAccess.Repositories
         protected void OnModelCreatingGeneratedProcedures(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<CarritoToProforResult>().HasNoKey().ToView(null);
+            modelBuilder.Entity<Custom_SecuencialResult>().HasNoKey().ToView(null);
         }
     }
 
@@ -74,6 +75,46 @@ namespace DataAccess.Repositories
                 parameterreturnValue,
             };
             var _ = await _context.SqlQueryAsync<CarritoToProforResult>("EXEC @returnValue = [dbo].[CarritoToProfor] @IdUsuario, @Bodega", sqlParameters, cancellationToken);
+
+            returnValue?.SetValue(parameterreturnValue.Value);
+
+            return _;
+        }
+
+        public virtual async Task<List<Custom_SecuencialResult>> Custom_SecuencialAsync(int? IdEmpresa, string xTipo, string xModulo, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default)
+        {
+            var parameterreturnValue = new SqlParameter
+            {
+                ParameterName = "returnValue",
+                Direction = System.Data.ParameterDirection.Output,
+                SqlDbType = System.Data.SqlDbType.Int,
+            };
+
+            var sqlParameters = new []
+            {
+                new SqlParameter
+                {
+                    ParameterName = "IdEmpresa",
+                    Value = IdEmpresa ?? Convert.DBNull,
+                    SqlDbType = System.Data.SqlDbType.Int,
+                },
+                new SqlParameter
+                {
+                    ParameterName = "xTipo",
+                    Size = 2,
+                    Value = xTipo ?? Convert.DBNull,
+                    SqlDbType = System.Data.SqlDbType.VarChar,
+                },
+                new SqlParameter
+                {
+                    ParameterName = "xModulo",
+                    Size = 2,
+                    Value = xModulo ?? Convert.DBNull,
+                    SqlDbType = System.Data.SqlDbType.VarChar,
+                },
+                parameterreturnValue,
+            };
+            var _ = await _context.SqlQueryAsync<Custom_SecuencialResult>("EXEC @returnValue = [dbo].[Custom_Secuencial] @IdEmpresa, @xTipo, @xModulo", sqlParameters, cancellationToken);
 
             returnValue?.SetValue(parameterreturnValue.Value);
 

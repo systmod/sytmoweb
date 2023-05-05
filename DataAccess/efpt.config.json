@@ -85,13 +85,16 @@
       {
          "Name": "[dbo].[CarritoToProfor]",
          "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[Custom_Secuencial]",
+         "ObjectType": 1
       }
    ],
-   "UiHint": "preciado-server\\sqlexpress.benderbrau.dbo",
+   "UiHint": "PRECIADO-SERVER\\SQLEXPRESS.benderbrau",
    "UncountableWords": null,
    "UseBoolPropertiesWithoutDefaultSql": true,
    "UseDatabaseNames": false,
-   "UseDateOnlyTimeOnly": false,
    "UseDbContextSplitting": true,
    "UseFluentApiOnly": true,
    "UseHandleBars": false,

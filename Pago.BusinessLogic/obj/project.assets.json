@@ -8418,19 +8418,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luis\\.nuget\\packages\\": {}
+    "C:\\Users\\luisp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Pago.BusinessLogic\\Pago.BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Pago.BusinessLogic\\Pago.BusinessLogic.csproj",
       "projectName": "Pago.BusinessLogic",
-      "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Pago.BusinessLogic\\Pago.BusinessLogic.csproj",
-      "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Pago.BusinessLogic\\obj\\",
+      "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Pago.BusinessLogic\\Pago.BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\luisp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Pago.BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8444,17 +8444,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj"
+            "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj": {
+              "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common.Operations\\Common.Operations.csproj"
             },
-            "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Common\\Common\\Common.csproj"
+            "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Common\\Common\\Common.csproj"
             },
-            "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Pago.Domain\\Pago.Domain.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Documents\\GitHub\\sytmoweb\\Pago.Domain\\Pago.Domain.csproj"
+            "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Pago.Domain\\Pago.Domain.csproj": {
+              "projectPath": "C:\\Users\\luisp\\Desktop\\Accesos\\Systmo\\sytmoweb\\Pago.Domain\\Pago.Domain.csproj"
             }
           }
         }
@@ -8484,7 +8484,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

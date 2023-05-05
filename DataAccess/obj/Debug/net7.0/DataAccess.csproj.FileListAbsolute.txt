@@ -22,3 +22,15 @@ C:\Users\Luis\Documents\GitHub\sytmoweb\DataAccess\obj\Debug\net7.0\DataAccess.d
 C:\Users\Luis\Documents\GitHub\sytmoweb\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
 C:\Users\Luis\Documents\GitHub\sytmoweb\DataAccess\obj\Debug\net7.0\DataAccess.pdb
 C:\Users\Luis\Documents\GitHub\sytmoweb\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\sytmoweb\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\luisp\Desktop\Accesos\Systmo\sytmoweb\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\sytmoweb\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\luisp\Desktop\Accesos\Systmo\sytmoweb\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\luisp\Desktop\Accesos\Systmo\sytmoweb\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisp\Desktop\Accesos\Systmo\sytmoweb\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\luisp\Desktop\Accesos\Systmo\sytmoweb\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\luisp\Desktop\Accesos\Systmo\sytmoweb\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\luisp\Desktop\Accesos\Systmo\sytmoweb\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\sytmoweb\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\luisp\Desktop\Accesos\Systmo\sytmoweb\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\luisp\Desktop\Accesos\Systmo\sytmoweb\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
